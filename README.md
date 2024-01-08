@@ -1,4 +1,6 @@
-### Hi there, im Vitor, born in 2001. I love programming, currently studying.👋
+### 👋Hi there, im Vitor, born in 2001. I love programming, currently studying.👋
+👀 I look foward to become a fullstack dev with programming languages such as python, java script, html and css.
+🌱 I’m currently pursuing a Technologist degree with a major in Analysis and Systems Development
 
 <!--
 **vitoradsp/vitoradsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
