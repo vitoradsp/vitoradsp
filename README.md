@@ -1,4 +1,4 @@
-### 👋Hi there, im Vitor, born in 2001. I love programming, currently studying.👋
+### 👋Hi there, im Vitor, born in 2001. I love programming, currently working at Fractal Engenharia e Sistemas (SA) as technology trainee.👋
 ### 👀 I'm a fullstack developer with programming languages such as python, javascript and typescript.
 ### 🌱 I currently work with frameworks such as Django, React and Tailwind.
 ### 🌱 I’m currently in college, majoring in Analysis and Systems Development.
